@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "YYY",
+    "#X#",
+    "YYY"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:glass"
+    },
+    "X": {
+       "item": "ironfurnaces:copper_furnace"
+    },
+    "Y": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:iron_furnace"
+  }
+}
